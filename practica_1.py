@@ -1,6 +1,6 @@
 # Calculadora Simple
 
-# Solicitar dos números al usuario
+# Solicitar dos números al usuario  al iniciar 
 num1 = int(input("Ingrese el primer número: "))
 num2 = int(input("Ingrese el segundo número: "))
 

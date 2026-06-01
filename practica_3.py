@@ -1,6 +1,6 @@
 # Conversión de Temperatura
 
-# Solicitar temperatura en grados Celsius
+# Solicitar temperatura en grados Celsius  practica3
 celsius = int(input("Ingrese la temperatura en grados Celsius: "))
 
 # Conversiones

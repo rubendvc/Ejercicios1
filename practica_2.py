@@ -1,5 +1,5 @@
 import math
-# Área y Perímetro del Círculo
+# Área y Perímetro del Círculo practica 2
 # Solicitar el radio del círculo
 radio = float(input("Ingrese el radio del círculo: "))
 

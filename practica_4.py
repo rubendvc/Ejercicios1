@@ -1,6 +1,6 @@
-# Par o Impar
+# Par o Impar practica 4
 
-# Solicitar un número entero
+# Solicitar un número entero 
 numero = int(input("Ingrese un número entero: "))
 
 # Determinar si es par o impar
